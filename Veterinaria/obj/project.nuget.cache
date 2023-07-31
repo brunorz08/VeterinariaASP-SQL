@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OpNdOirhKUoyyjADB9KQMWSVW7dX3yV92SF4x0w+qjjPe8ZI27cRM3uyNagTDZyTYMZ7XsN4KLmPnVlMyBcTjA==",
+  "dgSpecHash": "gZA8GEPI+9+Bns3Zh25zWo2Rm/Oj8u0sH2O/hxyHeZ9x9101Bjdm3Fk2DpZpBhndymtGWqpLzOXomMhU5h+Kww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pcser\\Desktop\\Veterinaria\\Veterinaria\\Veterinaria.csproj",
+  "projectFilePath": "C:\\Users\\pcser\\Desktop\\Proyectos de práctica\\Veterinaria\\Veterinaria\\Veterinaria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pcser\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pcser\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

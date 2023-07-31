@@ -14,8 +14,9 @@ namespace Veterinaria
         public string tipoAnimal { get; set; }
         public int edad { get; set; }
 
-        [ForeignKey("Medico")]
         public int? MedicoId { get; set; }
+
+        [ForeignKey("MedicoId")]
         public Medico? Medico { get; set; } 
 
             
